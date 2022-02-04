@@ -1,8 +1,8 @@
 # Discord-24/7-online
 
 ## Requirements
-* Discord Dummy Account
-* Your Discord Account Token ID
+* Discord Dummy Account ( Your main and dummy should be mutuals)
+* Your Discord Account Token ID (Main Discord Account)
 * Cloud IDE(Replit.com, RubyMine, Webstorm, etc)
 * Uptime Robot (To ping the replit repository so it doesn't shut down.)
 
@@ -18,6 +18,7 @@ git clone <repo-url>
 * (5) Once you get the Token ID create a secret variable at your replit repository and name it 'TOKEN'.
 * (6) Run the program.
 * (7) Log in to your dummy account. You should now notice your main account is now online.
+* (8) The last step is to add your replit repository to uptime robot.
 
 ## Usage
-* This program allows your discord account to be online forever. 
+* This program keeps your discord account online forever. 
