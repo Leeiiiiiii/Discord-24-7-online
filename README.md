@@ -1,4 +1,9 @@
-# Discord-24-7-online
-# To completely run the code on the background you must code this in a Cloud IDE like repl.it
-# The program will end after an hour so we have to use a service that will ping the replit like uptimerobot.
-# That way the code will run on the background forever.
+# Discord-24/7-online
+
+## Requirements
+* Discord Token ID
+* Cloud IDE(Replit.com, RubyMine, Webstorm, etc)
+* Uptime Robot (To ping the replit repository so it doesn't shut down.)
+
+## Usage
+* This program allows your discord account to be online forever. 
