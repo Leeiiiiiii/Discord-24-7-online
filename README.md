@@ -6,11 +6,11 @@
 * Cloud IDE(Replit.com, RubyMine, Webstorm, etc)
 * Uptime Robot (To ping the replit repository so it doesn't shut down.)
 
-## How to use the program:
+## Step by step on how to run the program:
 * (1) Create an Replit account then create a JavaScript repository.
 * (2) clone this repo to the repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/D0UT/Discord-24-7-online
 ```
 * (3) The environment is now fully set-up
 * (4) Now, get the Discord Token of your account. Follow the instruction
