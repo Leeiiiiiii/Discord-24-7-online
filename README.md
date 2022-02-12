@@ -1,5 +1,8 @@
 # Discord-24/7-online
 
+## Usage
+* This program keeps your discord account online 24/7. 
+
 ## Requirements
 * Discord Dummy Account ( Your main and dummy should be mutuals)
 * Your Discord Account Token ID (Main Discord Account)
@@ -27,5 +30,3 @@ Log in to your dummy account. You should now notice your main account is now onl
 
 The last step is to add your replit repository to uptime robot.
 
-## Usage
-* This program keeps your discord account online 24/7. 
