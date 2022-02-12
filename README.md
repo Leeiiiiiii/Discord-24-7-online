@@ -28,4 +28,4 @@ Log in to your dummy account. You should now notice your main account is now onl
 The last step is to add your replit repository to uptime robot.
 
 ## Usage
-* This program keeps your discord account online forever. 
+* This program keeps your discord account online 24/7. 
