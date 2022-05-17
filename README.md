@@ -28,5 +28,5 @@ Run the program.
 
 Log in to your dummy account. You should now notice your main account is now online.
 
-The last step is to add your replit repository to uptime robot.
+And the last step is to add your replit repository to uptime robot.
 
