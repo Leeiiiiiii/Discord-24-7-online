@@ -10,7 +10,7 @@
 * Uptime Robot (To ping the replit repository so it doesn't shut down.)
 
 ## Step by step on how to run the program:
-Create an Replit account then create a JavaScript repository.
+Create a Replit account and a JavaScript repository.
 
 Clone this repo to the repository
 
@@ -29,4 +29,20 @@ Run the program.
 Log in to your dummy account. You should now notice your main account is now online.
 
 And the last step is to add your replit repository to uptime robot.
+## Configuring Uptime Robot
+Go to [Uptime Robot](https://uptimerobot.com)
 
+Sign up for an account.
+
+Navigate to the Monitor dashboard.
+
+Now, select the monitor setup as *HTTP(S)*
+
+Add any name you like but preferably something related.
+
+Put the replit repository url and leave the other settings at default.
+
+Click the Create Monitor button and you're done!
+
+## Congratulations 🎉🎉
+Great Job! Your discord is now online 24/7!
